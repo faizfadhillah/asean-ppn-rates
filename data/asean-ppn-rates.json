@@ -2,7 +2,7 @@
   "meta": {
     "title": "ASEAN VAT/GST/PPN Rates",
     "description": "Standard and reduced VAT/GST/PPN rates for all 10 ASEAN member states",
-    "last_updated": "2026-04-30",
+    "last_updated": "2026-05-01",
     "sources": [
       "https://taxsummaries.pwc.com/quick-charts/value-added-tax-vat-rates",
       "https://www.globalvatcompliance.com/globalvatnews/world-countries-vat-rates-2020/",
@@ -30,11 +30,13 @@
       "iso3": "KHM",
       "local_name": "VAT",
       "tax_type": "vat",
-      "standard_rate": 10,
-      "reduced_rates": [0],
+      "standard_rate": 0.0,
+      "reduced_rates": [
+        0
+      ],
       "currency": "KHR",
-      "notes": "Standard 10% VAT on most goods and services. Exports and certain supplies are zero-rated.",
-      "effective_date": "1999-01-01"
+      "notes": "Auto-updated from PwC on 2026-05-01. Previous rate: 10%. Standard 10% VAT on most goods and services. Exports and certain supplies are zero-rated.",
+      "effective_date": "2026-05-01"
     },
     {
       "country": "Indonesia",
@@ -42,11 +44,13 @@
       "iso3": "IDN",
       "local_name": "Pajak Pertambahan Nilai (PPN)",
       "tax_type": "vat",
-      "standard_rate": 12,
-      "reduced_rates": [0],
+      "standard_rate": 11.0,
+      "reduced_rates": [
+        0
+      ],
       "currency": "IDR",
-      "notes": "PPN increased from 11% to 12% effective 1 January 2025 per UU HPP. Certain luxury goods subject to additional PPnBM (luxury goods sales tax).",
-      "effective_date": "2025-01-01"
+      "notes": "Auto-updated from PwC on 2026-05-01. Previous rate: 12%. PPN increased from 11% to 12% effective 1 January 2025 per UU HPP. Certain luxury goods subject to additional PPnBM (luxury goods sales tax).",
+      "effective_date": "2026-05-01"
     },
     {
       "country": "Laos",
@@ -55,7 +59,9 @@
       "local_name": "VAT",
       "tax_type": "vat",
       "standard_rate": 10,
-      "reduced_rates": [0],
+      "reduced_rates": [
+        0
+      ],
       "currency": "LAK",
       "notes": "Standard 10% VAT. Exports are zero-rated. Certain basic goods and services are exempt.",
       "effective_date": "2010-01-01"
@@ -67,7 +73,11 @@
       "local_name": "Sales Tax and Service Tax (SST)",
       "tax_type": "sst",
       "standard_rate": 8,
-      "reduced_rates": [5, 6, 0],
+      "reduced_rates": [
+        5,
+        6,
+        0
+      ],
       "currency": "MYR",
       "notes": "Malaysia replaced GST with SST in September 2018. Sales tax is 5% or 10% on goods; service tax is 8% (increased from 6% effective 1 March 2024). Not a VAT system.",
       "effective_date": "2024-03-01"
@@ -78,11 +88,13 @@
       "iso3": "MMR",
       "local_name": "Commercial Tax",
       "tax_type": "commercial_tax",
-      "standard_rate": 5,
-      "reduced_rates": [0],
+      "standard_rate": 0.0,
+      "reduced_rates": [
+        0
+      ],
       "currency": "MMK",
-      "notes": "Myanmar levies commercial tax (similar to VAT) at 5% on most goods and services. Gold, jewelry, and certain vehicles taxed at higher rates.",
-      "effective_date": "2019-10-01"
+      "notes": "Auto-updated from PwC on 2026-05-01. Previous rate: 5%. Myanmar levies commercial tax (similar to VAT) at 5% on most goods and services. Gold, jewelry, and certain vehicles taxed at higher rates.",
+      "effective_date": "2026-05-01"
     },
     {
       "country": "Philippines",
@@ -90,11 +102,13 @@
       "iso3": "PHL",
       "local_name": "Value Added Tax (VAT)",
       "tax_type": "vat",
-      "standard_rate": 12,
-      "reduced_rates": [0],
+      "standard_rate": 0.0,
+      "reduced_rates": [
+        0
+      ],
       "currency": "PHP",
-      "notes": "Standard 12% VAT on sale/import of goods and services. Exports are zero-rated. Certain basic goods, services and small businesses (below PHP 3M threshold) are VAT-exempt.",
-      "effective_date": "2006-02-01"
+      "notes": "Auto-updated from PwC on 2026-05-01. Previous rate: 12%. Standard 12% VAT on sale/import of goods and services. Exports are zero-rated. Certain basic goods, services and small businesses (below PHP 3M threshold) are VAT-exempt.",
+      "effective_date": "2026-05-01"
     },
     {
       "country": "Singapore",
@@ -103,7 +117,9 @@
       "local_name": "Goods and Services Tax (GST)",
       "tax_type": "gst",
       "standard_rate": 9,
-      "reduced_rates": [0],
+      "reduced_rates": [
+        0
+      ],
       "currency": "SGD",
       "notes": "GST increased from 8% to 9% effective 1 January 2024 (second phase of the planned increase from 7%). Exports and international services are zero-rated.",
       "effective_date": "2024-01-01"
@@ -115,7 +131,9 @@
       "local_name": "ภาษีมูลค่าเพิ่ม (VAT)",
       "tax_type": "vat",
       "standard_rate": 7,
-      "reduced_rates": [0],
+      "reduced_rates": [
+        0
+      ],
       "currency": "THB",
       "notes": "Statutory rate is 10% but a royal decree reduces it to 7% (has been continuously extended). Exports are zero-rated.",
       "effective_date": "1992-01-01"
@@ -126,11 +144,14 @@
       "iso3": "VNM",
       "local_name": "Thuế giá trị gia tăng (GTGT/VAT)",
       "tax_type": "vat",
-      "standard_rate": 10,
-      "reduced_rates": [5, 0],
+      "standard_rate": 2.0,
+      "reduced_rates": [
+        5,
+        0
+      ],
       "currency": "VND",
-      "notes": "Standard 10% VAT rate. Reduced 5% rate applies to essential goods (clean water, medical equipment, teaching aids, etc.). Exports are zero-rated.",
-      "effective_date": "1999-01-01"
+      "notes": "Auto-updated from PwC on 2026-05-01. Previous rate: 10%. Standard 10% VAT rate. Reduced 5% rate applies to essential goods (clean water, medical equipment, teaching aids, etc.). Exports are zero-rated.",
+      "effective_date": "2026-05-01"
     }
   ]
 }
