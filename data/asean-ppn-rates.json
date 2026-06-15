@@ -2,7 +2,7 @@
   "meta": {
     "title": "ASEAN VAT/GST/PPN Rates",
     "description": "Standard and reduced VAT/GST/PPN rates for all 10 ASEAN member states",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-06-15",
     "sources": [
       "https://taxsummaries.pwc.com/quick-charts/value-added-tax-vat-rates",
       "https://www.globalvatcompliance.com/globalvatnews/world-countries-vat-rates-2020/",
@@ -72,15 +72,15 @@
       "iso3": "MYS",
       "local_name": "Sales Tax and Service Tax (SST)",
       "tax_type": "sst",
-      "standard_rate": 8,
+      "standard_rate": 6.0,
       "reduced_rates": [
         5,
         6,
         0
       ],
       "currency": "MYR",
-      "notes": "Malaysia replaced GST with SST in September 2018. Sales tax is 5% or 10% on goods; service tax is 8% (increased from 6% effective 1 March 2024). Not a VAT system.",
-      "effective_date": "2024-03-01"
+      "notes": "Auto-updated from PwC on 2026-06-15. Previous rate: 8%. Malaysia replaced GST with SST in September 2018. Sales tax is 5% or 10% on goods; service tax is 8% (increased from 6% effective 1 March 2024). Not a VAT system.",
+      "effective_date": "2026-06-15"
     },
     {
       "country": "Myanmar",
